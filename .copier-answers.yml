@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier
+_commit: aeb60d2
+_src_path: gh:/data-tree-house/py-template
+include_pytests: false
+is_streamlit_app: false
+library_installs:
+- loguru
+project_author: Johandielangman
+project_description: Telegram Bot for datatreehouse.org
+project_name: Telegram Bot
+project_slug: telegram_bot
